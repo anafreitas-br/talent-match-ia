@@ -2,3 +2,15 @@ venv/
 .env
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+build/
+dist/
+*.egg-info/
+
+
