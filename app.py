@@ -132,7 +132,7 @@ Retorne somente um JSON, no resumo_final retorne um resumo do curriculo com suas
   "score_percent": {score_percent},
   "nivel_compatibilidade": "{nivel}",
   "pontos_fortes": "...",
-  "pontos_a_melhorar/riscos": "...",
+  "pontos_a_melhorar_riscos": "...",
   "recomendacao": "...",
   "resumo_final": "..."
 }}
@@ -187,7 +187,7 @@ Retorne somente um JSON, no resumo_final retorne um resumo do curriculo com suas
   "score_percent": {score_percent},
   "nivel_compatibilidade": "{nivel}",
   "pontos_fortes": "...",
-  "pontos_a_melhora/riscos": "...",
+  "pontos_a_melhora_riscos": "...",
   "recomendacao": "...",
   "resumo_final": "..."
 }}
